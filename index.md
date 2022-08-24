@@ -2,6 +2,8 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+<img src="https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/36070002_update2_WEB_oz2ryu/kelela-cover-story-take-me-apart-interview.jpg">
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131995216_1816878521807130_1213513444403099836_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=piNTvp0nY7YAX9_fwQM&_nc_ht=scontent-lax3-2.xx&oh=00_AT_p91TWbaZEB_HlDQ5Ug1PBQkPihHC_kkzunuI1eSFQBw&oe=632E1160">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132372834_1816916998469949_6370722024853622779_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=G7_VxN0McOwAX-Mg-ef&_nc_ht=scontent-lax3-1.xx&oh=00_AT9kSv6j7Eq3pia7JpfHAntlng3ckDC_xnf_u2wXEjplUA&oe=632CCCD0">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132544861_1819218584906457_439453098938799085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=dEdha4zrGrQAX8xx1mk&_nc_ht=scontent-lax3-1.xx&oh=00_AT-R3lNRfz5b39lFZaZvF7_7Ry7Jrj5kdUO5lpisirHpog&oe=632B9B7B">

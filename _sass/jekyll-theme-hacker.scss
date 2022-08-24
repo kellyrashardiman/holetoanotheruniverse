@@ -400,6 +400,7 @@ h3 {
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
     center repeat;
   font-weight: 900;
+  border-radius:12px;
   background: rgb(0,0,0);
 background: linear-gradient(278deg, rgba(0,0,0,0.7768595041322314) 0%, rgba(72,83,89,0.8292011019283747) 35%, rgba(176,185,191,0.7768595041322314) 100%);
   padding: 0px;
@@ -410,13 +411,7 @@ background: linear-gradient(278deg, rgba(0,0,0,0.7768595041322314) 0%, rgba(72,8
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
 
-h2 {
-font-weight: 900;
-padding: 0px;
-margin: 0px;
-text-align: left;
 
-}
 .firstcharacter {
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,

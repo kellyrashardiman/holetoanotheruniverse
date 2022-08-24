@@ -8,6 +8,188 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 ## DEAR_CORAL
 
+
+
+<div id="Content">
+ 
+<img src="https://images.genius.com/a1cb107c48d4cc842754b23e69ac9005.1000x617x1.jpg">
+  <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/0z67oSdgxP2bjzv7ZBpO3x?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <h2>Mary J Blige :: Growing Pains</h2>
+  See, today I'm havin' one of them days where
+
+I just don't wanna be bothered
+
+But it seems like you can't understand that
+
+Because it's your way or no way
+
+But check this out, it's my way today
+
+And I'm really, really sick and tired
+
+Of you steppin' into my little box
+
+When I just don't wanna be bothered, okay?
+
+So check this out
+
+I've had my way
+
+And I've had my share of ups and down
+
+I've been in trouble
+
+And I couldn't tell my ups from downs
+
+I've been your baby
+
+And I don't know why it don't seem like that no more
+
+Welcome to this new definition of love
+
+It ain't all roses
+
+Hey, flowers and posin'
+
+Hey, said it ain't all candy
+
+Hey, this love stuff is demanding
+
+Hey, said it ain't all roses
+
+Hey, flowers and posin'
+
+Hey, said it ain't all candy
+
+Hey, this love stuff is demanding
+
+Hey, sometimes I need a hug
+
+See, you, you just, you just wanna
+
+Really, really, really push all my buttons
+
+'Cause you Mr. Right and I'm Mrs. Wrong
+
+But right now today I feel like I'm-
+
+I'm the one gon' sing this song
+
+I'ma be Mrs. Right today
+
+It's my way or the highway
+
+But with you, there's just no gettin' around that
+
+I got to be bumpin' heads with you
+
+What's up with that?
+
+Listen, see
+
+I love my man
+
+And I know my place, I know my worth
+
+And I just can't stand
+
+To see myself as I hurt
+
+It's been a long time
+
+And I think that I can get a little more love from you
+
+I know some of y'all go through it to 'cause
+
+It ain't all roses
+
+Hey, flowers and posin'
+
+Hey, said it ain't all candy
+
+Hey, this love stuff is demanding
+
+Hey, said it ain't all roses
+
+Hey, flowers and posin'
+
+Hey, said it ain't all candy
+
+Hey, this love stuff is demanding
+
+Sometimes I need a hug
+
+Sometimes I just wish you just put your arms around me
+
+When I'm feelin' so, so, so very needy
+
+But instead you just turn your back
+
+And say, "Suck it up!"
+
+Oh, you don't know how I'm feelin' right now
+
+If you knew how I feel on the inside
+
+You wouldn't say suck it up
+
+Now what the... 'cause
+
+It ain't all roses
+
+Hey, flowers and posin'
+
+Hey, said it ain't all candy
+
+Hey, this love stuff is demanding
+
+Hey, said it ain't all roses (Ain't all roses)
+
+Hey, flowers and posin' (Flowers and posin')
+
+Hey, said it ain't all candy
+
+Hey, this love stuff is demanding
+
+Sometimes I need a hug
+
+It ain't all roses, you know?
+
+Everybody ask me how good it is
+
+It's great, love is great
+
+But when you just a mess yourself
+
+It ain't gon' be all roses
+
+'Cause you just want your time
+
+You wanna be selfish
+
+You know, you don't want nobody messin' with you
+
+You just wanna rip somebody's head off
+
+When they step to you with some
+
+"Oh you need some help boy, you need it to figure it out"
+
+You figure it out!
+
+You figure it out!
+
+You go figure it out!
+
+You suck it up!
+
+Hahaha
+<hr>
+ARTIST
+  <br>
+Mary J. Blige
+ </div>
+
 <img src="https://www.diyphotography.net/wp-content/uploads/2017/07/ps3_feature.jpg">
 <img src="https://media.newyorker.com/photos/61eb003db7e9b64f9be5b79b/16:9/w_1878,h_1056,c_limit/R17069.jpg">
 

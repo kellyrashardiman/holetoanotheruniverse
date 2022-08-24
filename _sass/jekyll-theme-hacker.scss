@@ -92,7 +92,7 @@ section {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 20px;
+  margin: 0 0 00px;
   /* border-top: 10px dotted #ff5500;  */
   /* border-bottom: 5px dotted #ff5500; */ 
   /* padding: 5px 0px 5px 10px; */
@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   /* border: 1px dotted #ff5500; */
   /* padding: 5px 70px 10px 25px; */
-  padding-left: 20px;
+  padding-left: 0px;
 }
 li {
   line-height: 1.4 ;
@@ -167,7 +167,8 @@ header h1 {
         0 0 125px #0DCBFF;
     letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
-
+border-top-left-radius: 12px;
+border-top-right-radius: 12px;
   @include media-max-width($container-max-width) {
     margin-left: 0;
   }

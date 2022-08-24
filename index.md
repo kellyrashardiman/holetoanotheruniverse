@@ -7,6 +7,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 ## DEAR_CORAL
+<img src="https://www.diyphotography.net/wp-content/uploads/2017/07/ps3_feature.jpg">
 
 [New Edition - If It Isn't Love (Official Music Video)](https://www.youtube.com/watch?v=ReI6gvzVP0Y)
 

@@ -8,8 +8,8 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 ## DEAR_CORAL
 
-
-
+<img src="https://i0.wp.com/igettalk.com/wp-content/uploads/2022/03/https___images.genius.com_0a51fd8f7cafd33d649c03968889cb5e.1920x1080x1-1.jpg">
+<img src="https://i.ytimg.com/vi/ofiRbIkdvSI/maxresdefault.jpg">
 <div id="Content">
  
 <img src="https://images.genius.com/a1cb107c48d4cc842754b23e69ac9005.1000x617x1.jpg">

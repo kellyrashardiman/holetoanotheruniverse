@@ -3,6 +3,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<IMG src="https://images.squarespace-cdn.com/content/v1/58b3000ae3df2844f576407a/1534856746593-L2F9OTLYYXQCLM4WIA4N/802Hollywood709one.jpg?format=1000w">
 <IMG src="https://www.graff-city.com/images/krink-k-71-p368-763_image.jpg" alt="Brandy, lets get up, you only need one marker">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/0bFBW9FwURGfjBpoR19L2r?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/36070002_update2_WEB_oz2ryu/kelela-cover-story-take-me-apart-interview.jpg">

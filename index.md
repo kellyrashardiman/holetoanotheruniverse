@@ -9,6 +9,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+[California 1952, Hollywood to Sunset Strip in color [60fps,Remastered] w/sound design added](https://www.youtube.com/watch?v=YM5A4TamTzo)
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/assets/images/KASHDOLLMONEYSLiDE.gif">
 
 ## Welcome to the Public Domain

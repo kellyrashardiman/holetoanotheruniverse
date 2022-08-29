@@ -9,6 +9,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+<IMG src="https://compote.slate.com/images/29da7f1b-752e-4760-9fa4-b206fe34de4c.jpg">
 <IMG src="https://www.aenigma-images.com/wp-content/uploads/2018/09/mrs-alfred-g-vanderbilt-by-richard-avedon.png">
 
 [New York City 1997](https://www.youtube.com/watch?v=V3V5X2mKUCo)

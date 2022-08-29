@@ -9,7 +9,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
-
+<IMG src="https://i.discogs.com/m8QL5rP0ZhBxaUw9jN7M_zBPYRUNphRDcx2SlxNdSFs/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE2/ODEtMTM0ODYyMDA0/NC05MzIzLmpwZWc.jpeg">
 <IMG src="https://compote.slate.com/images/29da7f1b-752e-4760-9fa4-b206fe34de4c.jpg">
 <IMG src="https://www.aenigma-images.com/wp-content/uploads/2018/09/mrs-alfred-g-vanderbilt-by-richard-avedon.png">
 

@@ -3,6 +3,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/assets/images/KASHDOLLMONEYSLiDE.gif">
 
 ## Welcome to the Public Domain
 [Welcome to the Public Domain](https://fairuse.stanford.edu/overview/public-domain/welcome/)

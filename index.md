@@ -9,6 +9,27 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+[New York City 1997](https://www.youtube.com/watch?v=V3V5X2mKUCo)
+[Nina Simone - Antibes - Juan-Les-Pins - 1969](https://www.youtube.com/watch?v=8mL3L9hN2l4)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<IMG src="https://media.tatler.com/photos/6141e4dfd66a1e15fd8df76b/master/w_1600,c_limit/10636981.jpg
+">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 [Chrome Developer Tools Tutorial - How to Inspect Elements and Test CSS](https://www.youtube.com/watch?v=s0RI4IXKE_o)
 [California 1952, Hollywood to Sunset Strip in color [60fps,Remastered] w/sound design added](https://www.youtube.com/watch?v=YM5A4TamTzo)
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/assets/images/KASHDOLLMONEYSLiDE.gif">

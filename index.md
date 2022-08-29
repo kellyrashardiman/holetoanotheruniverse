@@ -1,4 +1,10 @@
 
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE####################SARTUZAHLAH
+2 # TO##############################################ViViAN#
+3 # ANOTHER########################################NORMANiE
+4 # UNiVERSE##########################################SARTU
+{% endhighlight %}
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!

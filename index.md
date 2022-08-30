@@ -9,6 +9,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+[The Afrosound Of Colombia Vol. 3](https://vampisoul.bandcamp.com/album/the-afrosound-of-colombia-vol-3)
 <img src="https://m.media-amazon.com/images/I/71lfeWDfgtL._SS500_.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1soJXoRZCGKJRlH6ukewOu?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://images.squarespace-cdn.com/content/v1/558ffc4be4b023b6b857c016/1437308016327-G3OIQHNOLYGNSGSA20V9/girl_by_jamajurabaev-d8kiq74.jpg?format=original">

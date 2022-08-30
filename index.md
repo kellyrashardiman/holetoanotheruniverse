@@ -9,6 +9,9 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<img src="https://m.media-amazon.com/images/I/71lfeWDfgtL._SS500_.jpg">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1soJXoRZCGKJRlH6ukewOu?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<IMG src="https://images.squarespace-cdn.com/content/v1/558ffc4be4b023b6b857c016/1437308016327-G3OIQHNOLYGNSGSA20V9/girl_by_jamajurabaev-d8kiq74.jpg?format=original">
 <IMG src="https://i.discogs.com/m8QL5rP0ZhBxaUw9jN7M_zBPYRUNphRDcx2SlxNdSFs/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE2/ODEtMTM0ODYyMDA0/NC05MzIzLmpwZWc.jpeg">
 <IMG src="https://compote.slate.com/images/29da7f1b-752e-4760-9fa4-b206fe34de4c.jpg">
 <IMG src="https://www.aenigma-images.com/wp-content/uploads/2018/09/mrs-alfred-g-vanderbilt-by-richard-avedon.png">

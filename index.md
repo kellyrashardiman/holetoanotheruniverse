@@ -9,6 +9,9 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+[Mista Sinista: Street Beat Street Records showcase 1996](https://www.youtube.com/watch?v=xPKRVOBxcds)
+
+<IMG src="https://media.vanityfair.com/photos/590b3533e37e127f9c11f30f/master/pass/t-audrey-hepburn-things-to-know.jpg">
 
 [The Afrosound Of Colombia Vol. 3](https://vampisoul.bandcamp.com/album/the-afrosound-of-colombia-vol-3)
 <img src="https://m.media-amazon.com/images/I/71lfeWDfgtL._SS500_.jpg">

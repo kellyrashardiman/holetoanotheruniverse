@@ -9,6 +9,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<IMG src="https://img.beckett.com/images/items_stock/468286/7762551/7762638/front.jpg">
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ufZSKCI84Pd2ZlWTJcu4i?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [Mista Sinista: Street Beat Street Records showcase 1996](https://www.youtube.com/watch?v=xPKRVOBxcds)

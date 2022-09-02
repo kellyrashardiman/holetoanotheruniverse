@@ -9,6 +9,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1bfRpW8EgdfpnBLjYA4QYk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <a href="http://www.usarmymodels.com/"><IMG src="http://www.usarmymodels.com/ARTICLES/105mm%20Ordnance/Ammo/105mm%20Howitzer%20Ammunition%20M67%20and%20M1.jpg"></a>
 
 [I Survived Sexual and Physical Abuse | Minutes With | @LADbible TV](https://www.youtube.com/watch?v=pqnSihfif50)

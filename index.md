@@ -9,12 +9,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="JjzBQrw" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://bubblegumpop01.tumblr.com/post/737714874194542594/baby-i-love-you-i-heard-u-crying-on-the">
-  CSS3 inset text-shadow</a> by ricoThaka (<a href="https://bubblegumpop01.tumblr.com/post/737714874194542594/baby-i-love-you-i-heard-u-crying-on-the">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<embed src="https://bubblegumpop01.tumblr.com/" style="width:100%; height: 300px;">
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1317627814&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/runthejewels" title="Run The Jewels" target="_blank" style="color: #cccccc; text-decoration: none;">Run The Jewels</a> · <a href="https://soundcloud.com/runthejewels/sets/rtj4-deluxe-edition" title="RTJ4 (Deluxe Edition)" target="_blank" style="color: #cccccc; text-decoration: none;">RTJ4 (is the answer to #ReasonableDoubt all the women from atlanta got kidnapped, he talk abt they first one he money in he mouth until her shit started to make sense. im lonely and my child has on fishnets thanks #Kennie_Davis(JOLLYROGERTATTOO) </a></div>
 

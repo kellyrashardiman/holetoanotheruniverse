@@ -9,12 +9,13 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1317627814&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/runthejewels" title="Run The Jewels" target="_blank" style="color: #cccccc; text-decoration: none;">Run The Jewels</a> · <a href="https://soundcloud.com/runthejewels/sets/rtj4-deluxe-edition" title="RTJ4 (Deluxe Edition)" target="_blank" style="color: #cccccc; text-decoration: none;">RTJ4 (is the answer to #ReasonableDoubt all the women from atlanta got kidnapped, he talk abt they first one he money in he mouth until her shit started to make sense. im lonely and my child has on fishnets thanks #Kennie_Davis(JOLLYROGERTATTOO) </a></div>
 
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1bfRpW8EgdfpnBLjYA4QYk?utm_source=generator" width="100%" alt="ME_AN_YO_MOMMA_ANTHEM_JABDUMEYU" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<a href="http://www.usarmymodels.com/"><IMG src="http://www.usarmymodels.com/ARTICLES/105mm%20Ordnance/Ammo/105mm%20Howitzer%20Ammunition%20M67%20and%20M1.jpg"></a>
+<a href="http://www.usarmymodels.com/"><img src="http://www.usarmymodels.com/ARTICLES/105mm%20Ordnance/Ammo/105mm%20Howitzer%20Ammunition%20M67%20and%20M1.jpg"></a>
 
 [I Survived Sexual and Physical Abuse | Minutes With | @LADbible TV](https://www.youtube.com/watch?v=pqnSihfif50)
-<IMG src="https://img.beckett.com/images/items_stock/468286/7762551/7762638/front.jpg">
+<img src="https://img.beckett.com/images/items_stock/468286/7762551/7762638/front.jpg">
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/4BZbUYz8fR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ufZSKCI84Pd2ZlWTJcu4i?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

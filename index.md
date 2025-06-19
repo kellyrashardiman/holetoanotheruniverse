@@ -11,6 +11,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 <embed src="https://bubblegumpop01.tumblr.com/" style="width:100%; height: 300px;">
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/299186021&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-golden-path" title="The Golden Path" target="_blank" style="color: #cccccc; text-decoration: none;">The Golden Path</a> · <a href="https://soundcloud.com/the-golden-path/the-chemical-brothers-radio-1-anti-nazi-mix-1997" title="The Chemical Brothers - Radio 1 Anti-Nazi Mix (1997)" target="_blank" style="color: #cccccc; text-decoration: none;">The Chemical Brothers - Radio 1 Anti-Nazi Mix (1997)</a></div>
 [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://www.youtube.com/watch?v=2UHm2ASOpXA) 
 
 ![TheShow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIZ5HFhTzfw7diKQl9kloFX4SwJcIrtoZXZaTx5B0OI5vPipjLUBpSsDft7WeFf0c7yI5dTNpH1CSPzZPW3IM0aeBfwRAVI7d25RcKrrbLpW0nypkWgiqPKvlArbxSS4Oz89CurGizPOp/s640/the+show+-+big+and+puff.jpg)

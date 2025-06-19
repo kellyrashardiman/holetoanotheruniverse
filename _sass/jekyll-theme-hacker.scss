@@ -583,7 +583,158 @@ background: linear-gradient(278deg, rgba(0,0,0,0.7768595041322314) 0%, rgba(72,8
     background-color: #c9ff23;
 }	
 	/* ------------------------------------------- */	
-	
+
+
+  .box {
+    width: 80%;
+    border: 1px solid #3DF28B;
+    display: flex;
+    flex-wrap: wrap;
+    margin: .1rem;
+    background-attachment: fixed;
+    justify-content: space-evenly;
+    background-size: 100% auto;
+    font-kerning: normal;
+    letter-spacing: .2rem;
+    font: bold 10px/18px verdana, lucida, sans-serif;
+    background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
+    background-size: 20% auto;
+    background-attachment: fixed;
+  }
+
+  .box>* {
+    display: block;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    border: 1px solid #c9ff23;
+    padding: 1px;
+    margin: 1px;
+    background-color: #3DF28B20;
+    transition: all .2s ease-in-out;
+    flex-shrink:1;
+    flex-grow:1;
+ 
+    
+          &:hover {
+        flex-grow: 3;
+        
+      }
+    }
+  
+  .box a:link {
+    
+    color: white;
+    
+  }
+
+
+
+
+
+
+
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 10px;
+  flex-basis: 200px;
+  flex-shrink:3;
+  
+  flex-grow:1;
+  overflow: hidden;
+  width: fit-content;
+  block-size: max-content;
+  height: fit-content;
+  align-items: flex-start;
+  transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 9.3;
+    
+  }
+}
+
+
+.tupperware {
+  display: flex;
+  flex-flow: row wrap; 
+  padding: 1px;
+  gap: 1px;
+  height: auto;
+}
+
+.tupperware img {
+
+}
+
+.tupperware figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+
+
+
+
+  .enlarge_item {
+    display:flex;
+    width:min-content;
+    background-color: #22222290;
+    border: 1px solid #3DF28B;
+    flex-wrap: row-wrap;
+    margin: .1rem;
+    background-attachment: fixed;
+    justify-content: space-evenly;
+    background-size: 100% auto;
+    font-kerning: normal;
+    letter-spacing: .2rem;
+    font: bold 10px/18px  verdana, lucida, sans-serif;
+    
+
+  }
+
+  .enlarge_item>* {
+    display: block;
+    content: "min-content";
+    color: white;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    border: 1px solid #c9ff23;
+    padding: 1px;
+    margin: 1px;
+    background-color: #3DF28B20;
+    transition: all .2s ease-in-out;
+   flex: 0 1 auto;
+      align-items: center;
+  justify-content:center;
+  text-align: center;
+ 
+    
+          &:hover {
+             transform: scale(1.5);
+        flex-grow: 3;
+        
+      }
+    
+    }
+  
+  .enlarge_item a:link {
+    
+    color: white;
+    
+  }
+
+   .enlarge_item figure img { 
+              
+  max-height: 50vh; 
+            width:50vh;
+            display: inline; 
+            margin: auto; 
+        } 	
 	
 .twoPanelSpread {
   margin: 0px;
